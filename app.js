@@ -170,4 +170,5 @@
 //   return Number(('' + num).split('').map(function (val) { return val * val;}).join(''));
   
 // }
-console.log('Привет из Node.js')
+
+
